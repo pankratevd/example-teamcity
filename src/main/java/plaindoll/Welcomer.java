@@ -20,4 +20,6 @@ public class Welcomer {
     public String saySmthAboutHunter() {
         return "said about hunter";
     }
+
+    public String saySmthNew() { return "said smth new"; }
 }
